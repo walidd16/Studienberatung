@@ -10,7 +10,7 @@ public static void main(String[] args) {
 	
 		if (eingabe.equalsIgnoreCase("n")){
 			System.out.println("Hast du Fachabitur?");
-			String eingabe = scan.next();
+			String eingabe2 = scan.next();
 		}
 	
 
