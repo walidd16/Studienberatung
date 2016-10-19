@@ -12,8 +12,13 @@ public static void main(String[] args) {
 			System.out.println("Hast du Fachabitur?");
 			String eingabe2 = scan.next();
 		}
-	
 
-	
+		else if (eingabe.equalsIgnoreCase("j")){
+			System.out.println("Bist du wissbegierig?");
+			String eingabe2 = scan.next();
+
+		}
+		
+
 	}
 }
